@@ -69,5 +69,5 @@ Condensed, visual field manuals summarizing the core 20% of techniques that yiel
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/Wireless-Hacking-Compendium.git
+   git clone https://github.com/YoussefDabash/Wireless-Hacking-Dr.Dabash.git
    cd Wireless-Hacking-Compendium
